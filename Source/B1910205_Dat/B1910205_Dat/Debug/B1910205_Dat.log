@@ -1,0 +1,7 @@
+﻿  _Board.cpp
+C:\Users\ASUS\Documents\snack-ctu-master\Source\B1910205_Dat\B1910205_Dat\_Board.cpp(385,23): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\ASUS\Documents\snack-ctu-master\Source\B1910205_Dat\B1910205_Dat\_Board.cpp(968,23): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\ASUS\Documents\snack-ctu-master\Source\B1910205_Dat\B1910205_Dat\_Board.cpp(2446): warning C4715: 'gameOver_2': not all control paths return a value
+C:\Users\ASUS\Documents\snack-ctu-master\Source\B1910205_Dat\B1910205_Dat\_Board.cpp(2350): warning C4715: 'gameOver_1': not all control paths return a value
+C:\Users\ASUS\Documents\snack-ctu-master\Source\B1910205_Dat\B1910205_Dat\_Board.cpp(2261): warning C4715: 'gameOver': not all control paths return a value
+  B1910205_Dat.vcxproj -> C:\Users\ASUS\Documents\snack-ctu-master\Source\B1910205_Dat\Debug\B1910205_Dat.exe
